@@ -1,7 +1,12 @@
 /* Liam Lage
  * 23/10/2021
  *
- * Section 07 - Functions */
+ * Section 07 - Functions
+ * Lecture:
+ * 46 - https://www.udemy.com/course/microcontroller-embedded-c-programming/learn/lecture/16546070
+ * 47 - https://www.udemy.com/course/microcontroller-embedded-c-programming/learn/lecture/16546072
+ * 48 - https://www.udemy.com/course/microcontroller-embedded-c-programming/learn/lecture/16546074
+ */
 #include <stdio.h>
 #include <stdint.h>
 

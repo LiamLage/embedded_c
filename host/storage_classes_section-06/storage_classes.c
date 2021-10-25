@@ -1,7 +1,13 @@
 /* Author: Liam Lage
  * 23/10/2021
  *
- * Section 06 - Storage Classes */
+ * Section 06 - Storage Classes
+ * Lectures:
+ * 41 - https://www.udemy.com/course/microcontroller-embedded-c-programming/learn/lecture/1655191
+ * 42 - https://www.udemy.com/course/microcontroller-embedded-c-programming/learn/lecture/16551922
+ * 43 - https://www.udemy.com/course/microcontroller-embedded-c-programming/learn/lecture/16551924
+ * 44 - https://www.udemy.com/course/microcontroller-embedded-c-programming/learn/lecture/16551926
+ */
 #include <stdio.h>
 #include <stdint.h>
 

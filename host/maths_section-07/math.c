@@ -6,28 +6,20 @@
 
 // add: addition operation
 int32_t add(int32_t x, int32_t y) {
-    int32_t result = 0;
-    result = x + y;
-    return result;
+    return x + y;
 }
 
-// subtract: subtraction operation
-int32_t subtract(int32_t x, int32_t y) {
-    int32_t result = 0;
-    result = x - y;
-    return result;
+// sub: subtraction operation
+int32_t sub(int32_t x, int32_t y) {
+    return x - y;
 }
 
-// multiply: multiplication operation
-int64_t multiply(int32_t x, int32_t y) {
-    int64_t result = 0;
-    result = x * y;
-    return result;
+// mul: multiplication operation
+int64_t mul(int32_t x, int32_t y) {
+    return (int64_t)x * y;		// type cast int to long long
 }
 
-// divide: division operation
-double divide(double x, double y) {
-    double result = 0;
-    result = x / y;
-    return result;
+// div: division operation
+double div(int32_t x, int32_t y) {
+    return (double)x / y;		// type cast int to double
 }

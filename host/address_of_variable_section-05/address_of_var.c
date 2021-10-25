@@ -1,7 +1,11 @@
 /* Author: Liam Lage
  * 23/10/2021
  *
- * Section 05 - Address of Variable */
+ * Section 05 - Address of Variable 
+ * Lectures:
+ * 39 - https://www.udemy.com/course/microcontroller-embedded-c-programming/learn/lecture/16546062
+ * 40 - https://www.udemy.com/course/microcontroller-embedded-c-programming/learn/lecture/16546064
+ */
 #include <stdio.h>
 #include <stdint.h>
 

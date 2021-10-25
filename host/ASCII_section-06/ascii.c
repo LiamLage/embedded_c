@@ -1,7 +1,9 @@
 /* Author: Liam Lage
  * 23/10/2021
  *
- * Section 06 - ASCII codes */
+ * Section 06 - ASCII codes
+ * Lecture 45 - https://www.udemy.com/course/microcontroller-embedded-c-programming/learn/lecture/16551928
+ */
 #include <stdio.h>
 #include <stdint.h>
 
