@@ -11,12 +11,12 @@ if you have a Udemy account and you have paid for this course.
 
 * ### [Host](https://github.com/LiamLage/embedded_c/tree/main/host)
 
-  * [000_testProject](https://github.com/LiamLage/embedded_c/blob/4fe293ad966faacd0d0f32334756a2307284bc02/host/000_testProject)
-  * Section 1 - Introduction
-    * [01 - About the Instructor](https://www.udemy.com/course/microcontroller-embedded-c-programming/learn/lecture/22179014)
-    * [02 - Programming Languages for Embedded Systems](https://www.udemy.com/course/microcontroller-embedded-c-programming/learn/lecture/16753326)
-    * [03 - History of C and Standardization](https://www.udemy.com/course/microcontroller-embedded-c-programming/learn/lecture/16541242)
-    * [04 - Important Note](https://www.udemy.com/course/microcontroller-embedded-c-programming/learn/lecture/16639470)
+  * [Section 1 - Introduction](https://github.com/LiamLage/embedded_c/tree/main/host/section_01)
+    * [Test Project](https://github.com/LiamLage/embedded_c/tree/main/host/section_01/000_testProject)
+      * [01 - About the Instructor](https://www.udemy.com/course/microcontroller-embedded-c-programming/learn/lecture/22179014)
+      * [02 - Programming Languages for Embedded Systems](https://www.udemy.com/course/microcontroller-embedded-c-programming/learn/lecture/16753326)
+      * [03 - History of C and Standardization](https://www.udemy.com/course/microcontroller-embedded-c-programming/learn/lecture/16541242)
+      * [04 - Important Note](https://www.udemy.com/course/microcontroller-embedded-c-programming/learn/lecture/16639470)
   * Section 2 - IDE Installation
     * [05 - Downloading IDE](https://www.udemy.com/course/microcontroller-embedded-c-programming/learn/lecture/16490554)
     * [06 - Key Features of STM32CubeIDE](https://www.udemy.com/course/microcontroller-embedded-c-programming/learn/lecture/16490562)
@@ -54,29 +54,29 @@ if you have a Udemy account and you have paid for this course.
     * [36 - Variable Scope](https://www.udemy.com/course/microcontroller-embedded-c-programming/learn/lecture/16545906)
     * [37 - Variable Scope contd..](https://www.udemy.com/course/microcontroller-embedded-c-programming/learn/lecture/16545910)
     * [38 - Summary of Local & Global Variables](https://www.udemy.com/course/microcontroller-embedded-c-programming/learn/lecture/16545914)
-  * Section 5 - Address of Variable
-    * [Address of variable](https://github.com/LiamLage/embedded_c/tree/main/host/address_of_variable_section-05)
+  * [Section 5 - Address of Variable](https://github.com/LiamLage/embedded_c/tree/main/host/section_05)
+    * [Address of variable](https://github.com/LiamLage/embedded_c/tree/main/host/section_05/address_of_variable)
       * [39 - Address of Variables](https://www.udemy.com/course/microcontroller-embedded-c-programming/learn/lecture/16546062)
       * [40 - Address of Variables contd..](https://www.udemy.com/course/microcontroller-embedded-c-programming/learn/lecture/16546064)
-  * Section 6 - Storage Classes
-    * [Storage Classes](https://github.com/LiamLage/embedded_c/tree/main/host/storage_classes_section-06)
+  * [Section 6 - Storage Classes](https://github.com/LiamLage/embedded_c/tree/main/host/section_06)
+    * [Storage Classes](https://github.com/LiamLage/embedded_c/tree/main/host/section_06/storage_classes)
       * [41 - Storage Class Specifiers](https://www.udemy.com/course/microcontroller-embedded-c-programming/learn/lecture/1655191)
       * [42 - Static Variables](https://www.udemy.com/course/microcontroller-embedded-c-programming/learn/lecture/16551922)
       * [43 - Static Functions](https://www.udemy.com/course/microcontroller-embedded-c-programming/learn/lecture/16551924)
       * [44 - Extern Storage Class Specifier](https://www.udemy.com/course/microcontroller-embedded-c-programming/learn/lecture/16551926)
-    * [ASCII](https://github.com/LiamLage/embedded_c/tree/main/host/ASCII_section-06)
+    * [ASCII](https://github.com/LiamLage/embedded_c/tree/main/host/section_06/ASCII)
       * [45 - ASCII](https://www.udemy.com/course/microcontroller-embedded-c-programming/learn/lecture/16551928)
-  * Section 7 - Functions
-    * [Functions](https://github.com/LiamLage/embedded_c/tree/main/host/functions_section-07)
+  * [Section 7 - Functions](https://github.com/LiamLage/embedded_c/tree/main/host/section_07)
+    * [Functions](https://github.com/LiamLage/embedded_c/tree/main/host/section_07/functions)
       * [46 - Functions Introduction](https://www.udemy.com/course/microcontroller-embedded-c-programming/learn/lecture/16546070)
       * [47 - Function Prototypes](https://www.udemy.com/course/microcontroller-embedded-c-programming/learn/lecture/16546072)
       * [48 - Function Return](https://www.udemy.com/course/microcontroller-embedded-c-programming/learn/lecture/16546074)
-    * [Function Exercise](https://github.com/LiamLage/embedded_c/tree/main/host/maths_section-07)
+    * [Function Exercise](https://github.com/LiamLage/embedded_c/tree/main/host/section_07/maths)
       * [49 - Function Exercise](https://www.udemy.com/course/microcontroller-embedded-c-programming/learn/lecture/16546076)
-    * [Type Casting](https://github.com/LiamLage/embedded_c/tree/main/host/type_casting_section-07)
+    * [Type Casting](https://github.com/LiamLage/embedded_c/tree/main/host/section_07/type_casting)
       * [50 - Type Casting](https://www.udemy.com/course/microcontroller-embedded-c-programming/learn/lecture/16546078)
       * [51 - Type Casting contd..](https://www.udemy.com/course/microcontroller-embedded-c-programming/learn/lecture/16546080)
 
 * ### [Target](https://github.com/LiamLage/embedded_c/tree/main/target)
 
-  * [000_testProject](https://github.com/LiamLage/embedded_c/blob/4fe293ad966faacd0d0f32334756a2307284bc02/target/000_testProject)
+  * [000_testProject](https://github.com/LiamLage/embedded_c/tree/main/target/000_testProject)
