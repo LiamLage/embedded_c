@@ -26,7 +26,7 @@ if you have a Udemy account and you have paid for this course.
     * [10 - Installing Compiler (GCC) for Host (Windows)](https://www.udemy.com/course/microcontroller-embedded-c-programming/learn/lecture/16545730)
     * [11 - Installing Compiler (GCC) for Host (Linux)](https://www.udemy.com/course/microcontroller-embedded-c-programming/learn/lecture/16595640)
     * [12 - Installing Compiler (GCC) for Host (Mac)](https://www.udemy.com/course/microcontroller-embedded-c-programming/learn/lecture/16635470)
-    * [13 - Importing Course Projects into Workspace](https://www.udemy.com/course/microcontroller-embedded-c-programming/learn/lecture/16541394)]
+    * [13 - Importing Course Projects into Workspace](https://www.udemy.com/course/microcontroller-embedded-c-programming/learn/lecture/16541394)
     * [14 - Creating a Project for Host](https://www.udemy.com/course/microcontroller-embedded-c-programming/learn/lecture/16541396)
     * [15 - Creating a Project for Target](https://www.udemy.com/course/microcontroller-embedded-c-programming/learn/lecture/16541402)
     * [16 - FPU Warning Fix](https://www.udemy.com/course/microcontroller-embedded-c-programming/learn/lecture/18039117)
