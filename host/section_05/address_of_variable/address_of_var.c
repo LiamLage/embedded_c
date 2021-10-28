@@ -28,8 +28,9 @@ int32_t main(int32_t argc, char *argv[]) {
                                               * next error: "warning: cast from pointer to integer of
                                               * different size [-Wpointer-to-int-cast". change size of
                                               * type to match size of char. i.e. unsigned long long. */
+    // unsigned long long addressOfa1 = (unsigned long long)&a1;
     printf("The address of variable a1: %16llx\n", addressOfa1); // returns the result in decimal
-    printf("The address of variable a1: %p\n", &a1);
+    printf("The address of variable a1: %p\n", &a1);    // the & symbol is a pointer to the location in memory where the var is stored
     printf("The address of variable a2: %p\n", &a2);
     printf("The address of variable a3: %p\n", &a3);
     printf("The address of variable a4: %p\n", &a4);
