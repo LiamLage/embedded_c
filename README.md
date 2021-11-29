@@ -79,9 +79,9 @@ if you have a Udemy account and you have paid for this course.
     * [Type Casting](https://github.com/LiamLage/embedded_c/tree/main/host/section_07/type_casting)
       * [50 - Type Casting](https://www.udemy.com/course/microcontroller-embedded-c-programming/learn/lecture/16546078)
       * [51 - Type Casting contd..](https://www.udemy.com/course/microcontroller-embedded-c-programming/learn/lecture/16546080)
-  * [Section 8 - Microcontroller & Hello World]
+  * Section 8 - Microcontroller & Hello World
     * [52 - Embedded - 'Hello World'](https://www.udemy.com/course/microcontroller-embedded-c-programming/learn/lecture/16546068)
-    * [53 - printf over ARM Cortex M4 ITM+SWO line](https://www.udemy.com/course/microcontroller-embedded-c-programming/learn/lecture/16546090)
+    * [53 - printf over ARM Cortex M4 ITM + SWO line](https://www.udemy.com/course/microcontroller-embedded-c-programming/learn/lecture/16546090)
     * [54 - Issues with IDE](https://www.udemy.com/course/microcontroller-embedded-c-programming/learn/lecture/16686766)
     * [55 - printf over OpenOCD Semi-hosting](https://www.udemy.com/course/microcontroller-embedded-c-programming/learn/lecture/16595936)
     * [56 - Sizeof on Embedded Target](https://www.udemy.com/course/microcontroller-embedded-c-programming/learn/lecture/16546098)
